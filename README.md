@@ -2,9 +2,8 @@
 <h3 align="left">Sou estudante de Front-End na Alura</h3>
 
 
-- :seedling: &nbsp;Atualmente estou estudando no meu **[homelab]**
+- :seedling: &nbsp;Desenvolvendo do laboratório particular.
 - :speech_balloon: &nbsp; Sou um apaixonado por tecnologia e programação.
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
