@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Olá! Me chamo Gustavo Balieiro</h1>
-<h3 align="left">Sou estudante de Front-End na Alura</h3>
+<h3 align="left">Sou estudante de Desenvolvimento Web Full-Stack na Alura</h3>
 
 
 - :seedling: &nbsp;Desenvolvendo do laboratório particular.
