@@ -1,9 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Olá! Me chamo Gustavo Balieiro</h1>
-<h3 align="left">Sou estudante de Desenvolvimento Web Full-Stack na Alura</h3>
+<h3 align="left">Sou estudante de Desenvolvimento BackEnd na Alura</h3>
 
 
 - :seedling: &nbsp;Desenvolvendo do laboratório particular.
-- :speech_balloon: &nbsp; Sou um apaixonado por tecnologia e programação.
+- :speech_balloon: &nbsp; Sou um apaixonado por tecnologia e programação com Java.
 
 <br>
 
