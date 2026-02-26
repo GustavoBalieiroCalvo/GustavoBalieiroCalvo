@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gustavobalieirocalvo@gmail.com**
 
-- ⚡ Fun fact **i love cryptography and hackatons**
+- ⚡ Fun fact **I like to work in cryptography and hackatons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
