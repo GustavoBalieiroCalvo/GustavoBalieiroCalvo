@@ -8,6 +8,18 @@
 Focused on Embedded Systems, Low-Level Programming and Software Development
 </p>
 
+<h1 align="center">Hi 👋, I'm Gus</h1>
+<h3 align="center">...</h3>
+<p align="center">Focused on Embedded Systems...</p>
+
+<!-- GIF aqui -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3FQ1YleebeXnTGUVd4/giphy.gif" width="380" alt="embedded systems" />
+</p>
+
+<!-- bullet points -->
+* 🔭 Currently exploring...
+
 * 🔭 Currently exploring **Embedded Systems, Microcontrollers and Computer Architecture**
 
 * 🌱 Learning and building with **C/C++, Python and Java**
