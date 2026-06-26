@@ -23,3 +23,9 @@ Focused on Embedded Systems, Low-Level Programming and Software Development
 <p align="left">
 C • C++ • Python • Java • Linux • Git • Embedded Systems
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoBalieiroCalvo/GustavoBalieiroCalvo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoBalieiroCalvo/GustavoBalieiroCalvo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GustavoBalieiroCalvo/GustavoBalieiroCalvo/output/github-snake.svg" />
+</picture>
