@@ -8,13 +8,10 @@
 Focused on Embedded Systems, Low-Level Programming and Software Development
 </p>
 
-<h1 align="center">Hi 👋, I'm Gus</h1>
-<h3 align="center">...</h3>
-<p align="center">Focused on Embedded Systems...</p>
 
 <!-- GIF aqui -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3FQ1YleebeXnTGUVd4/giphy.gif" width="380" alt="embedded systems" />
+  <img src="https://media.giphy.com/media/3FQ1YleebeXnTGUVd4/giphy.gif" width="300" alt="embedded systems" />
 </p>
 
 <!-- bullet points -->
