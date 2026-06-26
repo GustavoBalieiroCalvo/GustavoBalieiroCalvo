@@ -11,7 +11,7 @@ Focused on Embedded Systems, Low-Level Programming and Software Development
 
 <!-- GIF aqui -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3FQ1YleebeXnTGUVd4/giphy.gif" width="300" alt="embedded systems" />
+  <img src="https://media.giphy.com/media/3FQ1YleebeXnTGUVd4/giphy.gif" width="250" alt="embedded systems" />
 </p>
 
 <!-- bullet points -->
