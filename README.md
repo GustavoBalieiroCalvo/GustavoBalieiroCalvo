@@ -15,7 +15,6 @@ Focused on Embedded Systems, Low-Level Programming and Software Development
 </p>
 
 <!-- bullet points -->
-* 🔭 Currently exploring...
 
 * 🔭 Currently exploring **Embedded Systems, Microcontrollers and Computer Architecture**
 
